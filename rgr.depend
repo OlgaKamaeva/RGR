@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1590562600 source:c:\users\Юыќур.lenovo-pc\desktop\rgr\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<time.h>
+
